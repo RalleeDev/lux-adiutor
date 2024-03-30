@@ -8,6 +8,7 @@ Here we have a list of all the features that needs implementing and all implemen
 | Get all lights and rooms for more functionality | W,I.P |
 | Change light state (toggle on/off, brightness etc) | W.I.P | 
 | CLI for all the features and settings | W.I.P |
+| Beutify our Markdown files | Coming Soon |
 
 ### Version 2
 N/A coming in the future
