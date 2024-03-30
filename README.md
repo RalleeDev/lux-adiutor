@@ -8,6 +8,12 @@ Lux-Adiutor is a cli mainly created so you can control your lights from you pc u
 
 Just download the source and open vscode and all the settings for the project should be saved
 
+## Features
+
+- CLI Support
+- Hue Support
+> Wanna know what we are working on you can look [here](/todo.md)
+
 ## Folder Structure
 
 The workspace contains two folders by default, where:

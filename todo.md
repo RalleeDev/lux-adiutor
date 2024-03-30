@@ -1,6 +1,6 @@
 # Todo
 
-Here we have a list of all the features that needs implementing and all implemented features
+Here we have a list of all the features that needs implementing and all implemented features so consider this a plan on what to work on if all the bugs and errors are fixed. Dont worry they will come back.
 
 ### Version 1
 | Feature | Status |
