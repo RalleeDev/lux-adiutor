@@ -1,18 +1,22 @@
-## What is this
-Lux-Adiutor is a cli mainly created so you can control your lights from you pc using the hue api. Its made to be run on a home server connected to the same network as your hue bridge
-
-## Showcase
-**Coming Soon**
+# Lux-Adiutor
+Software for managing your hue lights directly from your computer and alot of customizability.
 
 ## Getting Started
 
-Just download the source and open vscode and all the settings for the project should be saved
+#### Option 1:
+Download the newest versions under the [releases tab](https://github.com/RalleeDev/lux-adiutor/releases)
+
+#### Option 2:
+- Clone this Repository either with git or downloading it and unzipping it
+- Open Visual Studio Code
 
 ## Features
+(TODO)
 
-- CLI Support
-- Hue Support
-> Wanna know what we are working on you can look [here](/todo.md)
+## Contributing 
+
+Pull requests are welcome.
+For any major changes open an issue first so you can discuss what you would like to change
 
 ## Folder Structure
 
@@ -22,3 +26,6 @@ The workspace contains two folders by default, where:
 - `lib`: the folder to maintain dependencies
 
 Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+
+## License
+This project is licensed under the [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/) license
